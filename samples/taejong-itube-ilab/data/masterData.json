@@ -1,0 +1,435 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "tz_rOHQRDmJNrtSzStpjIZkOWcw",
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "uYWr4-3YKOH2-b2OJX65Cl7os9Q",
+      "id": "PL4FPAuuBorfzgMBUUI8SZkg3WVsJ6ukWn",
+      "snippet": {
+        "publishedAt": "2022-11-08T08:28:39Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩 화면",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "아이랩 화면",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "YCnZrVhcSde7fDvSJ6BhzArioAg",
+      "id": "PL4FPAuuBorfyG6lzmoaj28cJkw4Ow09Bt",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:10:39Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩 검사 항목 관리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "아이랩 검사 항목 관리",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "id1wRT81QVRFe4dndHurncdmD_I",
+      "id": "PL4FPAuuBorfxtVBpOJdMD98XYmcE3H_gB",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:10:29Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩 시험 결과서 적용 방법",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "아이랩 시험 결과서 적용 방법",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "bTcAmP-5-ouNoP27qmTYG_NBjvc",
+      "id": "PL4FPAuuBorfwIVSr629_tzpOobBbuvkTA",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:10:10Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩 시험법 계산식",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "아이랩 시험법 계산식",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Nhk3Mi37w4PV9xrLURqIfOzCEAs",
+      "id": "PL4FPAuuBorfwxle8ihQRZC82kYkpOyDBO",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:09:33Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "기술지원 서비스 요청 방법",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "기술지원 서비스 요청 방법",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "1rIzfJjYC6lzds-x3OSZlweMkls",
+      "id": "PL4FPAuuBorfyFOxx46lUdry3H7RuzLbS_",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:09:17Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩 설치",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "아이랩 설치",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "dWhoWjp9LiUKPM9N3EMXcyRzm00",
+      "id": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:05:54Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩 리포트 디자인",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "아이랩 리포트 디자인",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "acMVWsP6-KMAj3sBiWeXVE6YMaY",
+      "id": "PL4FPAuuBorfwKl33IgJVjfke0JtiJKGDY",
+      "snippet": {
+        "publishedAt": "2021-06-10T07:49:43Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩 처음 사용자 매뉴얼",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "아이랩 처음 사용자 매뉴얼",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0bWuIYHPnMmuJ6TUqMbw2xZm-C4",
+      "id": "PL4FPAuuBorfwFEuYCu3RqZ3mGGhyFMhLJ",
+      "snippet": {
+        "publishedAt": "2021-02-26T04:59:25Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩 매뉴얼 영상",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "아이랩 매뉴얼 영상",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "SFAViVIGF8AFFhnwlZT1FYZulwc",
+      "id": "PL4FPAuuBorfwJGvteVzeN5xD4Fpyoh43A",
+      "snippet": {
+        "publishedAt": "2018-01-05T14:50:31Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩 리포트 양식만들기",
+        "description": "아이랩을 이용해 성적서, 기록서등 양식을 만드는 방법에 대한 동영상 도움말 목록 입니다.\n아이랩 온라인 도움말은 https://help.ilabs.co.kr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "localized": {
+          "title": "아이랩 리포트 양식만들기",
+          "description": "아이랩을 이용해 성적서, 기록서등 양식을 만드는 방법에 대한 동영상 도움말 목록 입니다.\n아이랩 온라인 도움말은 https://help.ilabs.co.kr"
+        }
+      }
+    }
+  ]
+}

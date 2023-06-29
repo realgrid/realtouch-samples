@@ -1,0 +1,1474 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "rptW8sEhdy2z7w0naR-VUiKsp-E",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gdpZsWrm1HpimnIbPig6itzhYqU",
+      "id": "UEw0RlBBdXVCb3JmemdNQlVVSThTWmtnM1dWc0o2dWtXbi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-11-08T08:28:56Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_사용자 관리 화면",
+        "description": "아이랩에서 사용하는 사용자 관리화면에 대해 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/\n\n00:00 영상 내용\n00:17 사용자 추가 & 수정\n03:06 사용자 옵션\n04:17 사용자 삭제 관리\n05:23 시험팀 배정\n06:03 사용자 삭제 예시\n07:15 마무리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_esyrJm57NI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfzgMBUUI8SZkg3WVsJ6ukWn",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_esyrJm57NI"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zYOoF7GVLhxqmvictsXTPI7kdlQ",
+      "id": "UEw0RlBBdXVCb3JmeUc2bHptb2FqMjhjSmt3NE93MDlCdC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:00:12Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_항목 추가 방법",
+        "description": "아이랩에서 항목추가 방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/\n\n감사합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rLxVOFlHpS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfyG6lzmoaj28cJkw4Ow09Bt",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rLxVOFlHpS4"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_layolapZqnMEYa7QgZLR-fcHsY",
+      "id": "UEw0RlBBdXVCb3JmeHRWQnBPSmRNRDk4WFltY0UzSF9nQi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:00:39Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_시험 결과서 C타입 안내",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eSFjzVWCV8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxtVBpOJdMD98XYmcE3H_gB",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eSFjzVWCV8Y"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HbpddhfGqgt_sW2S5w9FqSM5aOI",
+      "id": "UEw0RlBBdXVCb3JmeHRWQnBPSmRNRDk4WFltY0UzSF9nQi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:00:39Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_시험 결과서 B타입 안내",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VTr0bXu6pOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VTr0bXu6pOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VTr0bXu6pOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VTr0bXu6pOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VTr0bXu6pOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxtVBpOJdMD98XYmcE3H_gB",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VTr0bXu6pOE"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r86W4Ga1pCMTgmUTr6CBCBRqZMs",
+      "id": "UEw0RlBBdXVCb3JmeHRWQnBPSmRNRDk4WFltY0UzSF9nQi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:00:39Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_시험 결과서 A타입 안내",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/995MNC280-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/995MNC280-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/995MNC280-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/995MNC280-M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/995MNC280-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxtVBpOJdMD98XYmcE3H_gB",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "995MNC280-M"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JhvoEg2Nv-WBq372pSBr1__KZ9k",
+      "id": "UEw0RlBBdXVCb3Jmd0lWU3I2MjlfdHpwT29iQmJ1dmtUQS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:01:13Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_시험법 계산식 if 문(조건문) 사용법",
+        "description": "아이랩에서 사용하는 계산식의 if 문 사용법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EE81Qjlz678/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwIVSr629_tzpOobBbuvkTA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EE81Qjlz678"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ad7TUCPta9u9Y9ci-43qNP9uxXA",
+      "id": "UEw0RlBBdXVCb3Jmd0lWU3I2MjlfdHpwT29iQmJ1dmtUQS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:01:13Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_시험법 계산식 기본 사용법",
+        "description": "아이랩에서 사용하는 계산식의 기본 사용법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mPrCRT2Bz-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mPrCRT2Bz-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mPrCRT2Bz-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mPrCRT2Bz-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mPrCRT2Bz-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwIVSr629_tzpOobBbuvkTA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mPrCRT2Bz-k"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NEoRny8g7oeahrERyNlxH9YWPH0",
+      "id": "UEw0RlBBdXVCb3Jmd0lWU3I2MjlfdHpwT29iQmJ1dmtUQS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:01:13Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_계산식 반올림",
+        "description": "아이랩에서 사용하는 계산식의 반올림 방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HPczal8xAko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HPczal8xAko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HPczal8xAko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HPczal8xAko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HPczal8xAko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwIVSr629_tzpOobBbuvkTA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HPczal8xAko"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JtwCE1l6yT1QjhXO7Tg0nPsJ3l8",
+      "id": "UEw0RlBBdXVCb3Jmd3hsZThpaFFSWkM4MmtZa3BPeURCTy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:01:58Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_기술지원 서비스요청 이용 방법",
+        "description": "아이랩에서 기술지원이 필요할 때, 위 내용을 참고하여 진행해주세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dr2gv3py2Z0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwxle8ihQRZC82kYkpOyDBO",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dr2gv3py2Z0"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2So3_XRaB4l9rRyQg8Z1dkG-7ys",
+      "id": "UEw0RlBBdXVCb3JmeUZPeHg0NmxVZHJ5M0g3UnV6TGJTXy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:02:15Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_설치 방법",
+        "description": "아이랩을 설치하는 방법에 대한 동영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A2ecORwnxzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfyFOxx46lUdry3H7RuzLbS_",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A2ecORwnxzY"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3xoVym-DocGKe-1KfGD1zQyMiek",
+      "id": "UEw0RlBBdXVCb3JmeUZPeHg0NmxVZHJ5M0g3UnV6TGJTXy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-06-15T05:02:15Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_실행 파일 위치 변경 방법",
+        "description": "아이랩 실행 파일의 위치를 변경하는 방법입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IeOoIOey1Gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IeOoIOey1Gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IeOoIOey1Gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IeOoIOey1Gc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IeOoIOey1Gc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfyFOxx46lUdry3H7RuzLbS_",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IeOoIOey1Gc"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MFXVrwC_UbOUIx60P_N5BIO8ab4",
+      "id": "UEw0RlBBdXVCb3JmeFM5OTR4SVM4VG5oNHE2eDB1RGFKbC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:06:07Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_리포트 Frame, width, height, visible 속성",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3QjTDPeeknY"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mE3B8Y9W6NbSwStVyiuNm407Vhs",
+      "id": "UEw0RlBBdXVCb3JmeFM5OTR4SVM4VG5oNHE2eDB1RGFKbC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:11:47Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_리포트 Frame, width, height, visible 속성",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3QjTDPeeknY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3QjTDPeeknY"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pAVHxNY2Nom2DDO0GsyCnuZDzOk",
+      "id": "UEw0RlBBdXVCb3JmeFM5OTR4SVM4VG5oNHE2eDB1RGFKbC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:11:47Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_성적서 진위 여부 확인을 위한 QR코드 적용방법 안내",
+        "description": "아이랩에서 제공하는 기능인 성적서 진위 확인을 위한 QR코드 적용방법\n안내 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1UZ6TI2gdx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1UZ6TI2gdx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1UZ6TI2gdx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1UZ6TI2gdx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1UZ6TI2gdx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1UZ6TI2gdx8"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cE-V4B7KfC4sBG25lMPTFs213VM",
+      "id": "UEw0RlBBdXVCb3JmeFM5OTR4SVM4VG5oNHE2eDB1RGFKbC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:11:47Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_리포트 대괄호 사용법",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CkWaUk_kAyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CkWaUk_kAyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CkWaUk_kAyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CkWaUk_kAyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CkWaUk_kAyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CkWaUk_kAyA"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x7pilwhAN-9QM8UCQbXOGbKqSpU",
+      "id": "UEw0RlBBdXVCb3JmeFM5OTR4SVM4VG5oNHE2eDB1RGFKbC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:11:47Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_리포트 속성(width, height) 안내",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AzP-jHXCTsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AzP-jHXCTsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AzP-jHXCTsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AzP-jHXCTsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AzP-jHXCTsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AzP-jHXCTsE"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aSIr7PRmx1NdrLJBA-o5s3gK48s",
+      "id": "UEw0RlBBdXVCb3JmeFM5OTR4SVM4VG5oNHE2eDB1RGFKbC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:11:47Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_리포트 메모, 이미지 , 저장, 업로드 방법",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0MfdTWC6DZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0MfdTWC6DZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0MfdTWC6DZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0MfdTWC6DZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0MfdTWC6DZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0MfdTWC6DZA"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DdcAThitRgMvdBdf_JPA5Pf-r60",
+      "id": "UEw0RlBBdXVCb3JmeFM5OTR4SVM4VG5oNHE2eDB1RGFKbC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:11:47Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_리포트 그룹, 카테고리, 사용여부, 삭제 포함 기능 안내",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nVQPof6bO7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nVQPof6bO7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nVQPof6bO7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nVQPof6bO7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nVQPof6bO7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nVQPof6bO7g"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f_ofuASIJ7jzyEBXGJ_l6ii5vDE",
+      "id": "UEw0RlBBdXVCb3JmeFM5OTR4SVM4VG5oNHE2eDB1RGFKbC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2022-06-15T01:11:47Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_리포트 추가,복제,삭제 방법",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZfTPuBKOzYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZfTPuBKOzYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZfTPuBKOzYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZfTPuBKOzYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZfTPuBKOzYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZfTPuBKOzYE"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-QCUGTZ8cwcXUigfedHxE48bkYg",
+      "id": "UEw0RlBBdXVCb3JmeFM5OTR4SVM4VG5oNHE2eDB1RGFKbC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2022-08-17T02:45:29Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_리포트 Frame 속성",
+        "description": "아이랩에서 사용하는 리포트 사용방법을 안내해드리는 영상입니다.\n\n이외의 추가 사항은 아래 아이랩 매뉴얼에서 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/\n\n00:00 Frame 이란\n00:55 Frame(테두리) 아이콘\n01:22 Frame 속성\n01:52 Frame 속성 예시 만들기\n02:22 Frame 속성 예시 출력\n02:28 Frame 속성 적용 과정\n03:12 Frame 속성 적용한 내용 출력\n03:21 실제 양식 적용 방법 예시 \n04:35 실제 양식 적용 방법 출력1\n04:46 실제 양식 적용 방법 출력2\n05:07 마무리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BHyirNRcoqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BHyirNRcoqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BHyirNRcoqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BHyirNRcoqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BHyirNRcoqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfxS994xIS8Tnh4q6x0uDaJl",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BHyirNRcoqU"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q9-8WjMpgfUiT6iCHOLop1jnST8",
+      "id": "UEw0RlBBdXVCb3Jmd0tsMzNJZ0pWamZrZTBKdGlKS0dEWS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-06-10T07:52:25Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_처음 사용자(대기 분야) 업무 프로세스",
+        "description": "아이랩을 처음 사용하시는 분들을 위한 대기 분야_업무 프로세스 시연 영상입니다.\n\n첨부해드리는 링크를 통해 해당 매뉴얼을 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/demo/air/air-process",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ESwOQexmMZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwKl33IgJVjfke0JtiJKGDY",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ESwOQexmMZQ"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-mVMec_LYN_D7l17QeW5mZ6DTHU",
+      "id": "UEw0RlBBdXVCb3Jmd0tsMzNJZ0pWamZrZTBKdGlKS0dEWS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-06-10T07:50:52Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_처음사용자(대기 분야) 단순 출력",
+        "description": "아이랩을 처음 사용하시는 분들을 위한 대기 분야 단순 출력 시연 영상입니다.\n\n첨부해드리는 링크를 통해 해당 매뉴얼을 확인할 수 있습니다.\nhttps://help.ilabs.co.kr/demo/air/air-print",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/atcQ3tlGZuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/atcQ3tlGZuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/atcQ3tlGZuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwKl33IgJVjfke0JtiJKGDY",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "atcQ3tlGZuw"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ltDcelLOGChejBE2KLuv0rUmu0I",
+      "id": "UEw0RlBBdXVCb3Jmd0tsMzNJZ0pWamZrZTBKdGlKS0dEWS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-06-10T07:50:52Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_처음사용자(폐수 분야) 단순 출력",
+        "description": "아이랩을 처음 사용하시는 분들을 위한 '폐수 분야' 단순 출력 시연 영상입니다.\n아래 링크와 함께 참고해주세요.\nhttps://help.ilabs.co.kr/demo/wastewater/wastewater-print",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bMry7QlH9i8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bMry7QlH9i8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bMry7QlH9i8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bMry7QlH9i8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bMry7QlH9i8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwKl33IgJVjfke0JtiJKGDY",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bMry7QlH9i8"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tsPgtRSpKnvb9WNznRHezimCCK0",
+      "id": "UEw0RlBBdXVCb3Jmd0tsMzNJZ0pWamZrZTBKdGlKS0dEWS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-06-10T07:50:52Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_처음사용자(폐수 분야) 업무 프로세스",
+        "description": "아이랩을 처음 사용하시는 분들을 위한 '폐수 분야' 단순 출력 시연 영상입니다.\n아래 링크와 함께 참고해주세요.\nhttps://help.ilabs.co.kr/demo/wastewater/wastewater-process",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/srw7n18wR2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/srw7n18wR2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/srw7n18wR2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwKl33IgJVjfke0JtiJKGDY",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "srw7n18wR2w"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0gG6BgAefD28YsVV1x2K51zCzpo",
+      "id": "UEw0RlBBdXVCb3Jmd0tsMzNJZ0pWamZrZTBKdGlKS0dEWS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-06-10T07:50:52Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_처음사용자(악취분야) 단순 출력",
+        "description": "아이랩을 처음 사용하시는 분들을 위한 '악취 분야' 단순 출력 시연 영상입니다.\n\n아래 링크의 메뉴얼을 참고하여 진행해주세요.\nhttps://help.ilabs.co.kr/demo/stink/stink-print",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MVwwNTIQbVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MVwwNTIQbVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MVwwNTIQbVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwKl33IgJVjfke0JtiJKGDY",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MVwwNTIQbVk"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "84CqFjw1dDe9KkrHCeAF4lbJAx8",
+      "id": "UEw0RlBBdXVCb3Jmd0tsMzNJZ0pWamZrZTBKdGlKS0dEWS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-06-10T07:50:52Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_처음사용자(악취 분야) 업무 프로세스",
+        "description": "아이랩을 처음 사용하시는 분들을 위한 '악취 분야' 업무 프로세스 시연 영상입니다.\n\n아래 링크의 메뉴얼을 참고하여 진행해주세요.\nhttps://help.ilabs.co.kr/demo/stink/stink-process",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nCZl_erxjo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nCZl_erxjo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCZl_erxjo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nCZl_erxjo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nCZl_erxjo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwKl33IgJVjfke0JtiJKGDY",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nCZl_erxjo4"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_P8pCnkl9ua6zG_ZEPdeaVaKRTE",
+      "id": "UEw0RlBBdXVCb3Jmd0tsMzNJZ0pWamZrZTBKdGlKS0dEWS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-06-10T07:50:52Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_처음사용자(일반분야) 단순 출력",
+        "description": "아이랩을 처음 사용하시는 분들을 위한 '일반 분야' 단순 출력 시연 영상입니다.\n아래 링크의 매뉴얼을 참고하여 진행해주세요.\nhttps://help.ilabs.co.kr/demo/normal/nomal-print",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ygfGbLUIEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ygfGbLUIEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ygfGbLUIEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ygfGbLUIEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ygfGbLUIEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwKl33IgJVjfke0JtiJKGDY",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9ygfGbLUIEY"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HGZ7TT1BGNI1s8CFN60GXCmLpas",
+      "id": "UEw0RlBBdXVCb3Jmd0tsMzNJZ0pWamZrZTBKdGlKS0dEWS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-06-10T07:50:52Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_처음사용자(일반 분야) 업무 프로세스",
+        "description": "아이랩을 처음 사용하시는 분들을 위한 '일반 분야' 업무 프로세스 시연 영상입니다.\n아래 링크의 매뉴얼을 참고하여 진행해주세요.\nhttps://help.ilabs.co.kr/demo/normal/nomal-process",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zPmM5hwvsVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zPmM5hwvsVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zPmM5hwvsVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zPmM5hwvsVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zPmM5hwvsVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwKl33IgJVjfke0JtiJKGDY",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zPmM5hwvsVA"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EZGIWmouapSLJ5vvZojpp1VU-IA",
+      "id": "UEw0RlBBdXVCb3Jmd0ZFdVlDdTNScVozbUdHaHlGTWhMSi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-03-04T06:39:16Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "아이랩_매뉴얼 이용 방법",
+        "description": "아이랩 매뉴얼 사이트 이용 방법에 대한 설명입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2a3YA4DvnRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwFEuYCu3RqZ3mGGhyFMhLJ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2a3YA4DvnRg"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F60agMvV29lz1v70oanlJsFg8qg",
+      "id": "UEw0RlBBdXVCb3Jmd0pHdnRlVnplTjV4RDRGcHlvaDQzQS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-01-07T05:38:37Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "100 리포트 양식만들기 - 요약본",
+        "description": "아이랩 리포트관리에서 리포트 양식을 만들기 위해 사용자가 알아야 하는 기본적인 기능을 요약하여 설명합니다.\n\n아이랩 온라인 도움말은 https://help.ilabs.co.kr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/enbzznh3XYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwJGvteVzeN5xD4Fpyoh43A",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "enbzznh3XYU"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kf7uTqyCSZ1vhGWjZOWtjBq60LE",
+      "id": "UEw0RlBBdXVCb3Jmd0pHdnRlVnplTjV4RDRGcHlvaDQzQS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-02-06T23:00:54Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "101 리포트 양식 디자이너 화면",
+        "description": "아이랩의 리포트를 디자인하기 위해 꼭 알아야 하는 리포트 양식 디자이너 화면에 대해 개략적인 설명을 하고 있습니다.\n\n아이랩 온라인 도움말은 https://help.ilabs.co.kr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eQu18RTFHZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eQu18RTFHZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQu18RTFHZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eQu18RTFHZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eQu18RTFHZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwJGvteVzeN5xD4Fpyoh43A",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eQu18RTFHZI"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l2VRX7m2n3W09SRlca-l1rr_5ck",
+      "id": "UEw0RlBBdXVCb3Jmd0pHdnRlVnplTjV4RDRGcHlvaDQzQS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-02-08T14:51:24Z",
+        "channelId": "UCvUjS6oqUTkDY89nC8m8E6g",
+        "title": "102 리포트 디자이너 옵션",
+        "description": "아이랩의 리포트 디자이너에 있는 세가지 옵션 화면에 대한 설명이 들어 있습니다. \n\n아이랩 온라인 도움말은 https://help.ilabs.co.kr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oPD1ncUye78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oPD1ncUye78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oPD1ncUye78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oPD1ncUye78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oPD1ncUye78/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "playlistId": "PL4FPAuuBorfwJGvteVzeN5xD4Fpyoh43A",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oPD1ncUye78"
+        },
+        "videoOwnerChannelTitle": "아이랩 - 실험실 정보관리 시스템",
+        "videoOwnerChannelId": "UCvUjS6oqUTkDY89nC8m8E6g"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 32,
+    "resultsPerPage": 32
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "realgrid-touch",
+    "main": "./dist/index",
+    "version": "0.9.19",
+    "author": {
+        "name": "WooriTech",
+        "url": "http://touch.realgrid.com",
+        "email": "support@realgrid.com"
+    },
+    "keywords": [
+        "realgrid",
+        "realgrid-touch",
+        "realtouch",
+        "grid",
+        "datagrid",
+        "reports",
+        "dataviz",
+        "pivot",
+        "visualization",
+        "realreport"
+    ],
+    "files": [
+        "dist/**/*"
+    ],
+    "license": "license.txt"
+}
