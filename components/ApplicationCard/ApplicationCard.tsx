@@ -41,24 +41,20 @@ interface BadgeCardProps {
   title: string;
   country: string;
   description: string;
-  badges: {
-    emoji: string;
-    label: string;
-  }[];
 }
 
-export function BadgeCard({ image, title, description, country, badges }: BadgeCardProps) {
-  const { classes, theme } = useStyles();
+export function BadgeCard({ image, title, description, country }: BadgeCardProps) {
+  const { classes } = useStyles();
 
-  const features = badges.map((badge) => (
-    <Badge
-      color={theme.colorScheme === 'dark' ? 'dark' : 'gray'}
-      key={badge.label}
-      leftSection={badge.emoji}
-    >
-      {badge.label}
-    </Badge>
-  ));
+  // const features = badges.map((badge) => (
+  //   <Badge
+  //     color={theme.colorScheme === 'dark' ? 'dark' : 'gray'}
+  //     key={badge.label}
+  //     leftSection={badge.emoji}
+  //   >
+  //     {badge.label}
+  //   </Badge>
+  // ));
 
   return (
     <Card withBorder radius="md" p="md" className={classes.card}>
@@ -78,18 +74,18 @@ export function BadgeCard({ image, title, description, country, badges }: BadgeC
         </Text>
       </Card.Section>
 
-      <Card.Section className={classes.section}>
+      {/* <Card.Section className={classes.section}>
         <Text mt="md" className={classes.label} c="dimmed">
           Perfect for you, if you enjoy
         </Text>
         <Group spacing={7} mt={5}>
           {features}
         </Group>
-      </Card.Section>
+      </Card.Section> */}
 
       <Group mt="xs">
-        <Button radius="md" style={{ flex: 1 }}>
-          Show details
+        <Button component="a" radius="md" style={{ flex: 1 }} href={country} target="_blank">
+          Show me
         </Button>
         <ActionIcon variant="default" radius="md" size={36}>
           <IconHeart size="1.1rem" className={classes.like} stroke={1.5} />

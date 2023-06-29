@@ -1,12 +1,12 @@
-import { Title, Text, Anchor, SimpleGrid } from '@mantine/core';
+import { Title, Text, Anchor, SimpleGrid, Container } from '@mantine/core';
 import useStyles from './Welcome.styles';
 import { BadgeCard } from '../ApplicationCard/ApplicationCard';
 
 const mockdata = [
   {
     image: 'https://i.imgur.com/Cij5vdL.png',
-    link: '',
-    title: 'Resident Evil Village review',
+    link: 'https://taejong-git-main-wooritech.vercel.app/',
+    title: '태종\'스 아이튜브 아이랩',
     rating: 'outstanding',
     description: 'Resident Evil Village is a direct sequel to 2017’s Resident Evil 7, but takes a very different direction to its predecessor, namely the fact that this time round instead of fighting against various mutated zombies, you’re now dealing with more occult enemies like werewolves and vampires.',
     author: {
@@ -21,7 +21,7 @@ export function Welcome() {
 
   return (
     <>
-      <Title className={classes.title} align="center" mt={100}>
+      <Title className={classes.title} align="center" mt={10}>
         <Text inherit variant="gradient" component="span">
           RealGrid-Touch
         </Text>
@@ -37,16 +37,18 @@ export function Welcome() {
         </Anchor>
         를 방문하면 더 자세한 정보를 얻을 수 있습니다.
       </Text>
-      <SimpleGrid cols={3} breakpoints={[{ maxWidth: 'sm', cols: 1 }]}>
-        {mockdata.map((obj) => <BadgeCard
-          image={obj.image}
-          title={obj.title}
-          country={obj.link}
-          description={obj.description}
-          badges={[]}
-        />
-        )}
-      </SimpleGrid>
+      <Container mt={30}>
+        <SimpleGrid cols={3} breakpoints={[{ maxWidth: 'sm', cols: 1 }]}>
+          {mockdata.map((obj, index) => <BadgeCard
+            key={index}
+            image={obj.image}
+            title={obj.title}
+            country={obj.link}
+            description={obj.description}
+          />
+          )}
+        </SimpleGrid>
+      </Container>
     </>
   );
 }
