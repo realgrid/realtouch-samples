@@ -1,18 +1,77 @@
 import { Title, Text, Anchor, SimpleGrid, Container } from '@mantine/core';
 import useStyles from './Welcome.styles';
-import { BadgeCard } from '../ApplicationCard/ApplicationCard';
+import { ApplicationCard } from '../ApplicationCard/ApplicationCard';
 
 const mockdata = [
   {
     image: 'https://i.imgur.com/Cij5vdL.png',
-    link: 'https://taejong-git-main-wooritech.vercel.app/',
-    title: '태종\'스 아이튜브 아이랩',
-    rating: 'outstanding',
-    description: 'Resident Evil Village is a direct sequel to 2017’s Resident Evil 7, but takes a very different direction to its predecessor, namely the fact that this time round instead of fighting against various mutated zombies, you’re now dealing with more occult enemies like werewolves and vampires.',
-    author: {
-      name: 'Bill Wormeater',
-      image: 'https://images.unsplash.com/photo-1593229874334-90d965f27c42?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80',
-    },
+    title: 'Touch Todo App',
+    link: 'https://touch-todo.wooritech.com/?type=example',
+    category: 'TOUCH',
+    description: '',
+  },
+  {
+    image: 'https://i.imgur.com/Cij5vdL.png',
+    title: 'iTube',
+    link: 'https://taejong.vercel.app/',
+    category: 'TOUCH',
+    description: '',
+  },
+  {
+    image: 'https://i.imgur.com/Cij5vdL.png',
+    title: '롤토체스 전적검색',
+    link: 'https://sihwang.vercel.app/',
+    category: 'TOUCH',
+    description: '',
+  },
+  {
+    image: 'https://i.imgur.com/Cij5vdL.png',
+    title: '부동산 어플',
+    link: 'https://tacrosst.vercel.app/',
+    category: 'TOUCH',
+    description: '',
+  },
+  {
+    image: 'https://i.imgur.com/Cij5vdL.png',
+    title: '우리포럼(Q&A 질문게시판)',
+    link: 'https://woori-forum.vercel.app/',
+    category: 'TOUCH',
+    description: '',
+  },
+  {
+    image: 'https://i.imgur.com/Cij5vdL.png',
+    title: '우리메일(이메일 App Service)',
+    link: 'https://leesihyun.vercel.app/',
+    category: 'TOUCH',
+    description: '',
+  },
+  {
+    image: 'https://i.imgur.com/Cij5vdL.png',
+    title: '아이랩 모바일 뷰어',
+    link: 'https://touch-jclee.vercel.app/',
+    category: 'TOUCH',
+    description: '',
+  },
+  {
+    image: 'https://i.imgur.com/Cij5vdL.png',
+    title: '날씨어플',
+    link: 'https://yesjean.vercel.app/',
+    category: 'TOUCH',
+    description: '',
+  },
+  {
+    image: 'https://i.imgur.com/Cij5vdL.png',
+    title: 'RealReport Demo',
+    link: 'https://wooripbg.vercel.app/',
+    category: 'TOUCH',
+    description: '',
+  },
+  {
+    image: 'https://i.imgur.com/Cij5vdL.png',
+    title: '딸기 경락가 조회',
+    link: 'http://agro.stimbroca.com:3000/',
+    category: 'TOUCH',
+    description: '',
   },
 ];
 
@@ -37,14 +96,15 @@ export function Welcome() {
         </Anchor>
         를 방문하면 더 자세한 정보를 얻을 수 있습니다.
       </Text>
-      <Container mt={30}>
+      <Container mt={30} mb={10}>
         <SimpleGrid cols={3} breakpoints={[{ maxWidth: 'sm', cols: 1 }]}>
-          {mockdata.map((obj, index) => <BadgeCard
+          {mockdata.map((obj, index) => <ApplicationCard
             key={index}
             image={obj.image}
             title={obj.title}
-            country={obj.link}
+            link={obj.link}
             description={obj.description}
+            category={obj.category}
           />
           )}
         </SimpleGrid>

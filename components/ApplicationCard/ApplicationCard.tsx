@@ -1,96 +1,66 @@
-import { IconHeart } from '@tabler/icons-react';
-import {
-  Card,
-  Image,
-  Text,
-  Group,
-  Badge,
-  Button,
-  ActionIcon,
-  createStyles,
-  rem,
-} from '@mantine/core';
+import { createStyles, Paper, Text, Title, Button, rem } from '@mantine/core';
 
 const useStyles = createStyles((theme) => ({
   card: {
-    backgroundColor: theme.colorScheme === 'dark' ? theme.colors.dark[7] : theme.white,
+    height: rem(440),
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
   },
 
-  section: {
-    borderBottom: `${rem(1)} solid ${
-      theme.colorScheme === 'dark' ? theme.colors.dark[4] : theme.colors.gray[3]
-    }`,
-    paddingLeft: theme.spacing.md,
-    paddingRight: theme.spacing.md,
-    paddingBottom: theme.spacing.md,
+  title: {
+    fontFamily: `Greycliff CF ${theme.fontFamily}`,
+    fontWeight: 900,
+    color: theme.white,
+    lineHeight: 1.2,
+    fontSize: rem(32),
+    marginTop: theme.spacing.xs,
   },
 
-  like: {
-    color: theme.colors.red[6],
-  },
-
-  label: {
-    textTransform: 'uppercase',
-    fontSize: theme.fontSizes.xs,
+  category: {
+    color: theme.white,
+    opacity: 0.7,
     fontWeight: 700,
+    textTransform: 'uppercase',
   },
 }));
 
-interface BadgeCardProps {
+interface ApplicationCardProps {
   image: string;
   title: string;
-  country: string;
+  category: string;
+  link: string;
   description: string;
 }
 
-export function BadgeCard({ image, title, description, country }: BadgeCardProps) {
+export function ApplicationCard({
+  image, title, category, link, description,
+}: ApplicationCardProps) {
   const { classes } = useStyles();
 
-  // const features = badges.map((badge) => (
-  //   <Badge
-  //     color={theme.colorScheme === 'dark' ? 'dark' : 'gray'}
-  //     key={badge.label}
-  //     leftSection={badge.emoji}
-  //   >
-  //     {badge.label}
-  //   </Badge>
-  // ));
-
   return (
-    <Card withBorder radius="md" p="md" className={classes.card}>
-      <Card.Section>
-        <Image src={image} alt={title} height={180} />
-      </Card.Section>
-
-      <Card.Section className={classes.section} mt="md">
-        <Group position="apart">
-          <Text fz="lg" fw={500}>
-            {title}
-          </Text>
-          <Badge size="sm">{country}</Badge>
-        </Group>
-        <Text fz="sm" mt="xs">
-          {description}
+    <Paper
+      shadow="md"
+      p="xl"
+      radius="md"
+      sx={{ backgroundImage: `url(${image})` }}
+      className={classes.card}
+    >
+      <div>
+        <Text className={classes.category} size="xs">
+          {category}
         </Text>
-      </Card.Section>
-
-      {/* <Card.Section className={classes.section}>
-        <Text mt="md" className={classes.label} c="dimmed">
-          Perfect for you, if you enjoy
-        </Text>
-        <Group spacing={7} mt={5}>
-          {features}
-        </Group>
-      </Card.Section> */}
-
-      <Group mt="xs">
-        <Button component="a" radius="md" style={{ flex: 1 }} href={country} target="_blank">
-          Show me
-        </Button>
-        <ActionIcon variant="default" radius="md" size={36}>
-          <IconHeart size="1.1rem" className={classes.like} stroke={1.5} />
-        </ActionIcon>
-      </Group>
-    </Card>
+        <Title order={3} className={classes.title}>
+          {title} {description}
+        </Title>
+      </div>
+      <Button component="a" radius="md" href={link} target="_blank">
+      {/* <Button variant="white" color="dark"> */}
+        Show me. {title}
+      </Button>
+    </Paper>
   );
 }
