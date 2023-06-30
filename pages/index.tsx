@@ -4,7 +4,7 @@ import { ColorSchemeToggle } from '../components/ColorSchemeToggle/ColorSchemeTo
 
 export default function HomePage() {
   return (
-    <Container mx={4}>
+    <Container px={20}>
       <ColorSchemeToggle />
       <Welcome />
     </Container>
