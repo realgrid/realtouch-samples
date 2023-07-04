@@ -1,4 +1,4 @@
-import { createStyles, Paper, Text, Title, Button, rem } from '@mantine/core';
+import { createStyles, Paper, Text, Title, rem } from '@mantine/core';
 
 const useStyles = createStyles((theme) => ({
   card: {
@@ -9,6 +9,12 @@ const useStyles = createStyles((theme) => ({
     alignItems: 'flex-start',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
+    transition: 'box-shadow 150ms ease, transform 100ms ease',
+
+    '&:hover': {
+      boxShadow: theme.shadows.md,
+      transform: 'scale(1.05)',
+    },
   },
 
   title: {
@@ -18,6 +24,7 @@ const useStyles = createStyles((theme) => ({
     lineHeight: 1.2,
     fontSize: rem(32),
     marginTop: theme.spacing.xs,
+    textShadow: '1px 1px 8px gray',
   },
 
   category: {
@@ -25,6 +32,12 @@ const useStyles = createStyles((theme) => ({
     opacity: 0.7,
     fontWeight: 700,
     textTransform: 'uppercase',
+  },
+
+  description: {
+    opacity: 0.9,
+    textShadow: '1px 1px 6px black',
+    color: 'white',
   },
 }));
 
@@ -48,19 +61,24 @@ export function ApplicationCard({
       radius="md"
       sx={{ backgroundImage: `url(${image})` }}
       className={classes.card}
+      component="a"
+      href={link}
+      target="_blank"
     >
       <div>
         <Text className={classes.category} size="xs">
           {category}
         </Text>
         <Title order={3} className={classes.title}>
-          {title} {description}
+          {title}
         </Title>
       </div>
-      <Button component="a" radius="md" href={link} target="_blank">
-      {/* <Button variant="white" color="dark"> */}
+      {/* <Button component="a" radius="md" href={link} target="_blank">
         Show me. {title}
-      </Button>
+      </Button> */}
+      <Text fz="sm" lineClamp={4} className={classes.description}>
+        {description}
+      </Text>
     </Paper>
   );
 }
